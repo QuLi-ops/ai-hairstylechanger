@@ -5,9 +5,9 @@ before getting a real haircut.
 
 ## Demo
 
-🌐 Website: https://aihairstylechanger.space  
-🧪 HuggingFace Space: https://huggingface.co/spaces/quli-ops/ai-hairstyle-changer 
-🤖 Telegram Mini App: https://t.me/hairstyle_changer_bot
+- 🌐 Website: https://aihairstylechanger.space  
+- 🧪 HuggingFace Space: https://huggingface.co/spaces/quli-ops/ai-hairstyle-changer 
+- 🤖 Telegram Mini App: https://t.me/hairstyle_changer_bot
 
 ## What it does
 
