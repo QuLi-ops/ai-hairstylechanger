@@ -1,7 +1,6 @@
 # AI Hairstyle Changer
 
-AI Hairstyle Changer lets you try different hairstyles on your own face
-before getting a real haircut.
+AI Hairstyle Changer is an online tool thant lets you try different hairstyles on your own face before getting a real haircut.
 
 ## Demo
 
