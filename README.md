@@ -25,3 +25,6 @@ instead of guessing or regretting later.
 
 This is an actively maintained project.
 More improvements are coming.
+
+<img width="318" height="698" alt="AI Hairstyle Changer" src="https://github.com/user-attachments/assets/801b8693-287a-4d5e-a201-28d33b692d82" />
+
